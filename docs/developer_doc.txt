@@ -1,0 +1,33 @@
+ROLE: developer
+ID: DOC2
+
+Internal Engineering and Development Guidelines
+
+This document is intended for developers working on internal systems
+and software platforms within the organization.
+
+System Architecture:
+The company uses a microservices-based architecture deployed on cloud
+infrastructure. Services communicate via REST APIs and message queues.
+Authentication is handled through centralized identity services.
+
+Development Workflow:
+All code changes must be made through feature branches and submitted
+via pull requests. Each pull request requires at least one peer review
+before being merged into the main branch.
+
+API Usage:
+Internal APIs are documented using OpenAPI specifications. Developers
+should avoid breaking changes and follow versioning conventions when
+modifying existing endpoints.
+
+Data Handling:
+Developers may access development and staging databases but must not
+directly access production data unless explicitly authorized. Sensitive
+fields such as user credentials and financial records must be handled
+according to security guidelines.
+
+Deployment:
+CI/CD pipelines automatically run tests and security scans before
+deployment. Manual deployments to production are restricted to senior
+developers and managers.

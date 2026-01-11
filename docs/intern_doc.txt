@@ -1,0 +1,32 @@
+ROLE: intern
+ID: DOC1
+
+Intern Onboarding and General Company Policies
+
+Welcome to the company. This document provides an overview of general policies
+and guidelines that all interns should be aware of during their time here.
+
+Working Hours:
+Interns are expected to work between 9:00 AM and 5:00 PM, Monday to Friday.
+Any deviation must be approved by the assigned mentor.
+
+Code of Conduct:
+All interns must maintain professional behavior, respect colleagues,
+and comply with company ethics policies. Harassment, misuse of company
+resources, or disclosure of confidential information is strictly prohibited.
+
+IT Usage Policy:
+Company-provided laptops and accounts are intended solely for work-related
+activities. Installing unauthorized software or accessing restricted systems
+is not allowed.
+
+Leave Policy:
+Interns are entitled to a limited number of leave days during the internship
+period. Leave requests should be submitted through the HR portal at least
+two days in advance.
+
+Learning and Evaluation:
+Interns are encouraged to ask questions, participate in team meetings,
+and complete assigned tasks on time. Performance evaluations are conducted
+at the end of the internship based on learning progress and contribution.
+
