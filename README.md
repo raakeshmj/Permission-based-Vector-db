@@ -1,4 +1,4 @@
-# 🔐 Permission-Aware Vector Database with Privacy-Conditional Embeddings
+# Permission-Aware Vector Database with Privacy-Conditional Embeddings
 
 ## Overview
 
